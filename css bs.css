@@ -1,0 +1,30 @@
+.rel{
+    background-color: green;
+    width: 190px;
+    height: 30px;
+    position: relative;
+    left: 50px;
+    top: 50px;
+}
+.abs{
+    background-color: red;
+    width: 190px;
+    height: 30px;
+    position: absolute;
+    right: 30%;
+    top: 20%;
+}
+.fix{
+    background-color: yellow;
+    width: 190px;
+    height: 30px;
+    position: fixed;
+    bottom: 280px;
+    left: 1000px;
+
+    
+}
+header{
+    background-color: rgb(91, 91, 228);
+    text-align: center;
+}
